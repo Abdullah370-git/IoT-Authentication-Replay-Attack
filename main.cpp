@@ -32,7 +32,7 @@ int main()
     Attacker attacker;
 
     // ==============================
-    // PHASE 1: Vulnerable System
+    // PHASE 1: Vulnerable System   
     // ==============================
     log.log("\n===== PHASE 1: Vulnerable Authentication =====");
 
